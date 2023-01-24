@@ -3,7 +3,7 @@
 As a software developer, I am currently learning and gaining experience in Object-oriented software development using Java, structured programming using C/C++ and data science using Python.
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:signal_strength: GitHub Stats</summary>
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cbozan&show_icons=true&theme=transparent&custom_title=cbozan's%20Github%20Stats" />
   
 </details>
