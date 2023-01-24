@@ -10,7 +10,7 @@ As a software developer, I am currently learning and gaining experience in Objec
 
 <details>
   <summary>:zap: Top Langs</summary>
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbozan" />
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbozan&theme=transparent" />
   
 </details>
 
